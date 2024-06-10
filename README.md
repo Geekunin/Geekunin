@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @stevephillo
+- 👋 Hi, I’m @geekunin
 - 👀 I’m interested in python work
 - 🌱 I’m currently learning all things Javascript
 - 💞️ I’m looking to collaborate on Machine Learning projects
